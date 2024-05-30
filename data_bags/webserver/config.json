@@ -1,0 +1,5 @@
+{
+  "id": "config",
+  "server_name": "myserver",
+  "document_root": "/var/www/html"
+}
